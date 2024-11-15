@@ -67,6 +67,7 @@ RegisterNumber: 24900224
  HEAD
  
 ![Screenshot 2024-11-15 100329](https://github.com/user-attachments/assets/a7031dc5-5360-49d3-82ac-8a195a59887a)
+
 COPY
 
 ![Screenshot 2024-11-15 100338](https://github.com/user-attachments/assets/0e7c4e28-03c0-4f79-bc11-7e8adc0959a8)
