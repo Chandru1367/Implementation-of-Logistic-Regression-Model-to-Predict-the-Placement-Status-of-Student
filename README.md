@@ -92,7 +92,7 @@ CLASSIFICATION REPORT
 
 ![Screenshot 2024-11-15 183250](https://github.com/user-attachments/assets/186f0135-0c0f-46d0-be46-dfca7798206c)
 
-PRIDICTION
+PREDICTION
 
 ![Screenshot 2024-11-15 183309](https://github.com/user-attachments/assets/e75282d7-766a-40c1-b531-fa3c1d695207)
 
